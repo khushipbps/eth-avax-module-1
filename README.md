@@ -7,6 +7,8 @@ This Solidity program is a simple program that demonstrates the usage of `assert
 This program is a simple contract written in Solidity, a programming language used for developing smart contracts on the Ethereum blockchain. The contract has a three functions which are used to manage the state i.e `totalSUpply`. `burnSupply` function is used to decrease `totalSupply`. `setSupply` function is used to set the `totalSupply` value. `addSupply` function is used to increase the `totalSupply`.
 
 ## Getting Started
+### Pre-requisites
+- Solidity version - 0.8.17
 
 ### Executing program
 
